@@ -1,0 +1,16 @@
+{
+"companyName": "habdfy",
+"productName": "mostafa_avoiding_rfa3eey",
+"productVersion": "1.0",
+"dataUrl": "BUILD.data.unityweb",
+"wasmCodeUrl": "BUILD.wasm.code.unityweb",
+"wasmFrameworkUrl": "BUILD.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "BUILD.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"developmentBuild": true,
+"multithreading": false,
+"unityVersion": "2019.3.0f6"
+}
